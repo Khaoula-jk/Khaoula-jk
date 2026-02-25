@@ -1,4 +1,24 @@
-## Hi there 👋
+## Hey there 👋
+I'm Khaoula.\
+💻 Aspiring Full-Stack Web Developer  
+📍 Based in Tunisia\
+Currently learning web development by making projects.
+
+## 📌 Featured Projects
+🔹 Hangman Game  
+A browser-based game built with HTML, CSS, and JavaScript.
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **Khaoula-jk/Khaoula-jk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
