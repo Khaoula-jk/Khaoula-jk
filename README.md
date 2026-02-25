@@ -4,7 +4,7 @@ I'm Khaoula.\
 📍 Based in Tunisia\
 Currently learning web development by making projects.
 
-## 📌 Featured Projects
+## Featured Projects
 🔹 Hangman Game  
 A browser-based game built with HTML, CSS, and JavaScript.
 
