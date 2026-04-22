@@ -1,12 +1,6 @@
 ## Hey there 👋
 I'm Khaoula.\
-💻 Aspiring Full-Stack Web Developer  
-📍 Based in Tunisia\
-Currently learning web development by making projects.
-
-## Featured Projects
-🔹 Hangman Game  
-A browser-based game built with HTML, CSS, and JavaScript.
+💻 Aspiring Software Engineer
 
 
 
